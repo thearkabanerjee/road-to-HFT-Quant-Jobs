@@ -1,3 +1,4 @@
-roadmap to a quant/ HFT/ De-Fi company
+roadmap to a quant/ HFT/ De-Fi company:
+
 
 
