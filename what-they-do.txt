@@ -1,0 +1,7 @@
+what do these companies do ?
+
+1. Market Making
+2. Arb
+3. OTC
+4. Price prediction/alpha/modelling
+
