@@ -1,1 +1,3 @@
 Market Making:
+
+Placing orders on the book to make the market more liquid (decrease the spread).
