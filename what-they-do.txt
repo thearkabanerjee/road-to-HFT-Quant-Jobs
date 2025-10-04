@@ -2,7 +2,10 @@ what do these companies do ?
 
 1. Market Making
     ~ tries to make money by making the market more efficient from companies.
-2. Arb
-3. OTC
+2. Arb (arbritage)
+    ~ if 2 markets have fairly different prices for an asset, they try to close the gap and take free money in the process.
+3. OTC (over the counter trades)
+    ~ if some compa
 4. Price prediction/alpha/modelling
-
+    ~ general price prediction in shorter time periods or longer time periods.
+    ~ alpha m
