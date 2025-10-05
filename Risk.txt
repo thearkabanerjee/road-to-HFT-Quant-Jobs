@@ -25,7 +25,6 @@ Glitches or delays can cause huge, sudden losses (e.g., Knight Capital’s 2012 
 5. Regulatory & Compliance Risk
 
 Exchanges and regulators impose obligations on market makers (like minimum quote sizes, maximum spreads).
-
 If they fail to meet obligations during volatile times, they risk penalties or losing their license.
 
 6. Funding & Margin Risk
