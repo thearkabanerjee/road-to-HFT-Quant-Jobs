@@ -1,3 +1,31 @@
-Market Making:
+Market making is a financial activity where a firm or individual continuously quotes both buy and sell prices for a financial asset (such as a stock, bond, cryptocurrency, or derivative) to provide liquidity in the market.
 
-Placing orders on the book to make the market more liquid (decrease the spread).
+Here’s the breakdown:
+
+A market maker stands ready to buy (bid) and sell (ask) an asset at all times.
+
+They earn money mainly from the bid-ask spread (the difference between the buy and sell prices).
+
+Their role ensures that there’s always a counterparty for trades, reducing friction and making it easier for investors to enter or exit positions.
+
+Example:
+
+Suppose a stock is trading around ₹100.
+
+A market maker might quote: Buy at ₹99.80, Sell at ₹100.20.
+
+If a trader wants to sell immediately, the market maker buys at ₹99.80.
+
+If another trader wants to buy immediately, the market maker sells at ₹100.20.
+
+The market maker earns ₹0.40 per share from this round trip (before costs and risks).
+
+Key Points:
+
+Purpose: Provide liquidity, reduce volatility, make markets more efficient.
+
+Risks: They can be stuck with assets if prices move sharply against them.
+
+Where it happens: Stock exchanges, forex markets, crypto exchanges, commodities.
+
+Who does it: Specialized firms (like Citadel Securities, Virtu Financial) or banks in traditional finance, and algorithms/bots in crypto.
