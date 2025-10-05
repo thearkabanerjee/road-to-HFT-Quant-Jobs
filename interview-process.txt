@@ -1,0 +1,15 @@
+# Interview Process:
+
+## Freshers:
+1. DSA (maybe)
+2. Puzzles (vague)
+3. Performing under stress
+4. Probability/stats
+5. specific problems the team is working on
+
+## Experienced:
+1. Puzzles (vague)
+2. Performing under stress
+3. Probability/stats
+4. Low Level coding / design
+5. specific problems the team is working on
