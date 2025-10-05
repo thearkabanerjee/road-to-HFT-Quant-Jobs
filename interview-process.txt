@@ -13,3 +13,4 @@
 3. Probability/stats
 4. Low Level coding / design
 5. specific problems the team is working on
+6. operating Systems
