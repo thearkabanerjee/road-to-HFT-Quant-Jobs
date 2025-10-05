@@ -1,0 +1,6 @@
+# alphas:
+
+1. sitting close ot the blockchain (infra)
+2. price prediction / modelling
+3. Landing txns fast
+
