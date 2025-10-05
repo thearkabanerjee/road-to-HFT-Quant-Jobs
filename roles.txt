@@ -1,0 +1,6 @@
+# Roles:
+
+1. Quant Developer - interview same as a SDE.
+2. Trader 
+3. Quant Researcher
+4. Infra
