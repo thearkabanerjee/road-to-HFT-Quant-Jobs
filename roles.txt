@@ -3,4 +3,8 @@
 1. Quant Developer - interview same as a SDE.
 2. Trader 
 3. Quant Researcher
+
+    ~ both 2 and 3 are almost similar write the trades, not code. delegate te code part to quant developer.
+
 4. Infra
+    ~ almost same as a DevOps engineer.
