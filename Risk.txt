@@ -1,1 +1,33 @@
-Risk 
+# Risk:
+
+1. Inventory Risk (Price Movement Risk)
+
+The biggest risk: a market maker might buy an asset expecting to quickly sell it, but the price could move against them before they offload.
+Example: If they buy a stock at ₹100 (from a seller) and before they can sell it at ₹101 the price drops to ₹95, they’re stuck holding a losing position.
+
+2. Adverse Selection Risk
+
+This happens when the market maker trades against someone with better information.
+Example: A market maker quotes ₹100.20 to sell a stock. If a large trader with insider knowledge buys at that price just before big positive news is released, the market maker will suffer losses as the stock rockets upward.
+
+Basically, market makers can get “picked off” by informed traders.
+
+3. Liquidity Risk
+
+In volatile times (say, during a financial crisis or crypto crash), buyers and sellers may disappear.
+Market makers are obliged to keep providing quotes, but if no one is trading on the other side, they’re forced to hold large risky positions.
+
+4. Execution & Latency Risk (Tech Risk)
+
+Modern market making is algorithmic. If their systems are slower than competitors, they’ll consistently lose to faster firms.
+Glitches or delays can cause huge, sudden losses (e.g., Knight Capital’s 2012 collapse—lost $440M in 45 minutes due to a trading software bug).
+
+5. Regulatory & Compliance Risk
+
+Exchanges and regulators impose obligations on market makers (like minimum quote sizes, maximum spreads).
+
+If they fail to meet obligations during volatile times, they risk penalties or losing their license.
+
+6. Funding & Margin Risk
+
+Market makers often use leverage to scale operations. Sharp moves can trigger margin calls, forcing them to liquidate at a loss.
