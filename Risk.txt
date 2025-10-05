@@ -1,6 +1,6 @@
 # Risk:
 
-1. Inventory Risk (Price Movement Risk)
+1. Inventory Risk (Price Movement Risk) //most common risk
 
 The biggest risk: a market maker might buy an asset expecting to quickly sell it, but the price could move against them before they offload.
 Example: If they buy a stock at ₹100 (from a seller) and before they can sell it at ₹101 the price drops to ₹95, they’re stuck holding a losing position.
