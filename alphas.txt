@@ -1,0 +1,13 @@
+#alphas:
+
+1. Funds
+    ~ need really a lot of money to run a quant/ HFT/ De-Fi company or maybe hold a desk there.
+2. Infra 
+    ~ most of these companies invest heavily in buying/ renting servers in the same datacenter as an exchange. (./data-centers.png)
+    ~ for crypto exchanges, one can pay more money to get a better place closer to the exchange.
+
+    ~ even hardware they run in the datacenter is important.
+    ~ low level coding is important.
+
+3. Smart People
+    ~ can be achieved within a few months.
